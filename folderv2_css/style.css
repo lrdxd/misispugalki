@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+}
+a:hover {
+    color:mediumvioletred;
+}
+li {
+    list-style: none;
+}
+.menu ul {
+    display: flex;
+    justify-content:  left;
+    
+}
+.menu ul li {
+    margin-right: 75px;
+}
+head {
+font-family: 'Rubik Mono One', sans-serif;  
+}
+body {
+font-family: 'Rubik Mono One', sans-serif;
+}
+
+
+
+
+
+ 
